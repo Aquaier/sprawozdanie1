@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"jeden" 
-=======
-"dwa" 
->>>>>>> 2886d97 (Zmiana 2)
+"Zmiana" 
